@@ -1,5 +1,4 @@
-{
-    "pirates" : [
+[
     {
         "name": "Black Beard",
         "country_of_origin": "England",
@@ -16,4 +15,3 @@
         "years_active": 25
     }
 ]
-}
