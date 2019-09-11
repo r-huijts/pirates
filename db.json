@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Black Beard",
+        "country_of_origin": "England",
+        "years_active": 10
+    },
+    {
+        "name": "Barba Rojo",
+        "country_of_origin": "England",
+        "years_active": 34
+    },
+    {
+        "name": "Jack Sparrow",
+        "country_of_origin": "England",
+        "years_active": 25
+    }
+]
